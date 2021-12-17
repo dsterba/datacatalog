@@ -1,0 +1,82 @@
+site_name: Maternal Health Task Force Data Catalog
+#site_url: "https://datacatalog.dansterba.net"
+docs_dir: docs
+plugins:
+  - search
+  - roamlinks
+  - include_dir_to_nav
+
+nav:
+  - Home: 
+    - 'index.md'
+  - Data Owners:
+    - Data Owners
+  - Datasets:
+    - Datasets
+  - Subjects:
+    - Subjects
+  - Tags:
+    - tags.md
+
+theme:
+  name: material
+  font: false
+  features:
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+
+markdown_extensions:
+  - def_list
+  - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
+  - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.magiclink
+  - nl2br # newline-to-break
+  - toc:
+      permalink: '#'
+      slugify: !!python/name:pymdownx.slugs.uslugify
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - footnotes
+  - meta
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+
+
+#extra:
+#  alternate:
+#    # Switch to English
+#    - name: English
+#      link: https://mkdocs.shramapoo.com/en/
+#      lang: en
+#    # Switch to Spanish
+#    - name: Spanish
+#      link: https://mkdocs.shramapoo.com/es/
+#      lang: es
+
