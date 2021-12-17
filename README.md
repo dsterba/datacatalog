@@ -20,6 +20,12 @@ git add -A # or manually stage your changes through the UI
 git -c user.name='My Name' -c user.email=author@example.com commit -m "my commit message"
 ```
 
+Ensure that changes are pushed to remote prior to logging off (**Need to add validation in the `deploy.sh` script**)
+```
+git status
+git push origin
+```
+
 The production deploy process is completed by running `./deploy.sh` from the terminal in the /datacatalog folder
 
 This will publish the pages to https://datacatalog.dansterba.net
