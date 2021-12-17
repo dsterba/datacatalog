@@ -22,7 +22,7 @@ git -c user.name='My Name' -c user.email=author@example.com commit -m "my commit
 
 Ensure that changes are pushed to remote prior to logging off (**Need to add validation in the `deploy.sh` script**)
 ```
-git status
+git status # shouldn't have unstaged/uncommited changes - should be up to date with origin/main
 git push origin
 ```
 
