@@ -12,18 +12,22 @@ You can put the server in development by following these steps:
 3. Navigate to https://dev-datacatalog.dansterba.net
 
 # Deploy to Production
-## Commit to git and push changes
+## Commit to git
 In order to have some sanity when editing in this code server, we are NOT configuring a global git user
 please commit changes from the terminal command line with the following code:
 ```
 git add -A # or manually stage your changes through the UI
 git -c user.name='My Name' -c user.email=author@example.com commit -m "my commit message"
 ```
-
+## Push Changes to Origin
 Ensure that changes are pushed to remote prior to logging off (**Need to add validation in the `deploy.sh` script**)
+
+You will have to sign in with Github username and **Personal Access Token - NOT Password**. [Instructions for creating a personal access token here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 ```
-git status # shouldn't have unstaged/uncommited changes - should be up to date with origin/main
-git push origin
+git status 
+# this shouldn't have unstaged/uncommited changes
+# and should be up to date with origin/main
+git push
 ```
 
 The production deploy process is completed by running `./deploy.sh` from the terminal in the /datacatalog folder
