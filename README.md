@@ -13,6 +13,12 @@ You can put the server in development by following these steps:
 
 # Deploy to Production
 ## Commit to git and push changes
+In order to have some sanity when editing in this code server, we are NOT configuring a global git user
+please commit changes from the terminal command line with the following code:
+```
+git add -A # or manually stage your changes through the UI
+git -c user.name='My Name' -c user.email=author@example.com commit -m "my commit message"
+```
 
 The production deploy process is completed by running `./deploy.sh` from the terminal in the /datacatalog folder
 
