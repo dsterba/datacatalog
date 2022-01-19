@@ -1,5 +1,5 @@
 site_name: Maternal Health Task Force Data Catalog
-#site_url: "https://datacatalog.dansterba.net"
+site_url: "https://datacatalog.dansterba.net"
 docs_dir: docs
 plugins:
   - search
