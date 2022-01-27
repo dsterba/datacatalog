@@ -10,7 +10,7 @@ You can put the server in development by following these steps:
 1. Open a terminal (CTRL + SHIFT + backtick) 
 2. Run `./dev-serve.sh` in the /datacatalog folder
 3. Navigate to https://dev-datacatalog.dansterba.net
-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
+
 # Deploy to Production
 ## Commit to git
 In order to have some sanity when editing in this code server, we are NOT configuring a global git user
