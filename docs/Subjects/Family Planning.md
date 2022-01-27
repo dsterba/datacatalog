@@ -1,6 +1,5 @@
 ---
 title: Family Planning
-description: Family Planning
 tags:
   - health
   - maternal health

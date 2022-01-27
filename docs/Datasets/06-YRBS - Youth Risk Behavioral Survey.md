@@ -2,7 +2,7 @@
 title: Youth Risk Behavioral Survey (YRBS)
 description: Youth Risk Behavioral Survey (YRBS)
 tags:
-  - health
+  - 
 dateCreated: 2021-12-08
 dateRevised: 2021-12-08
 ---

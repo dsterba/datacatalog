@@ -1,6 +1,5 @@
 ---
-title: Maternal Mortality
-description: Maternal Mortality
+title: Maternal mortality
 tags:
   - health
   - maternal health

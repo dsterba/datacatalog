@@ -1,6 +1,5 @@
 ---
 title: Food insecurity
-description: Food insecurity
 tags:
   - health
   - nutrition

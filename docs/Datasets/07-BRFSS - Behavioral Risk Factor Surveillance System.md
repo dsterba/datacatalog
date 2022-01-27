@@ -2,7 +2,7 @@
 title: Behavioral Risk Factor Surveillance System (BRFSS)
 description: Behavioral Risk Factor Surveillance System (BRFSS)
 tags:
-  - health
+  - 
 dateCreated: 2021-12-08
 dateRevised: 2021-12-08
 ---

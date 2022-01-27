@@ -2,9 +2,7 @@
 title: Fetal Death Certificate Registry (FETAL)
 description: Fetal Death Certificate Registry (FETAL)
 tags:
-  - health
-  - child health
-  - maternal health
+  - 
 dateCreated: 2021-12-08
 dateRevised: 2021-12-08
 ---

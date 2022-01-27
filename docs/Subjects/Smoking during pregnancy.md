@@ -1,13 +1,13 @@
 ---
-title: Breastfeeding
+title: Smoking During Pregnancy
 tags:
-  - health
   - maternal health
   - child health
-  - breastfeeding
-dateCreated: 2021-12-08
+dateCreated: 2022-01-19
+dateRevised: 2022-01-19
 ---
-# Breastfeeding
+# Smoking During Pregnancy
 ## Relevant Datasets
 - [[01-BIRTHS - Birth Certificate Registry]]
+- [[03-FETAL - Fetal death certificate registry]]
 - [[04-PRAMS - Pregnancy Risk Assessment Monitoring System]]

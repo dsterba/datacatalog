@@ -1,14 +1,12 @@
 ---
-title: Prenatal Care
-description: Prenatal Care
+title: WIC During Pregnancy
 tags:
-  - health
   - maternal health
   - child health
-dateCreated: 2021-12-08
+dateCreated: 2022-01-19
+dateRevised: 2022-01-19
 ---
-# Prenatal Care
+# WIC During Pregnancy
 ## Relevant Datasets
 - [[01-BIRTHS - Birth Certificate Registry]]
 - [[03-FETAL - Fetal death certificate registry]]
-- [[04-PRAMS - Pregnancy Risk Assessment Monitoring System]]

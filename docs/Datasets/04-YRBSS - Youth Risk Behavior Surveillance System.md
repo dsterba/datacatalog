@@ -2,7 +2,6 @@
 title: Youth Risk Behavior Surveillance System (YRBSS)
 description: Youth Risk Behavior Surveillance System (YRBSS)
 tags:
-  - health
   - adolescent health
 dateCreated: 2021-12-08
 dateRevised: 2021-12-08

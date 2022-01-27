@@ -1,6 +1,5 @@
 ---
 title: {{TITLE}}
-description: 
 tags:
   - 
 dateCreated: {{DATE:YYYY-MM-DD}}

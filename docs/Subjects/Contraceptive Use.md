@@ -1,6 +1,5 @@
 ---
 title: Contraceptive Use
-description: Contraceptive Use
 tags:
   - health
   - maternal health

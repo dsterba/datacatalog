@@ -1,13 +1,11 @@
 ---
-title: Cesarean Delivery
+title: Pregnancy complications
 tags:
-  - health
-  - maternal health
-  - child health
-  - birth
-dateCreated: 2021-12-08
+  - 
+dateCreated: 2022-01-27
+dateRevised: 2022-01-27
 ---
-# Cesarean Delivery
+# Pregnancy complications
 ## Relevant Datasets
 - [[01-BIRTHS - Birth Certificate Registry]]
 - [[04-PRAMS - Pregnancy Risk Assessment Monitoring System]]

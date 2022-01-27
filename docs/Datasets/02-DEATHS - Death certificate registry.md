@@ -2,11 +2,7 @@
 title: Death Certificate Registry (DEATHS)
 description: Death Certificate Registry (DEATHS)
 tags:
-  - health
-  - maternal health
-  - child health
-  - maternal mortality
-  - infant mortality
+  - 
 dateCreated: 2021-12-08
 dateRevised: 2021-12-08
 ---

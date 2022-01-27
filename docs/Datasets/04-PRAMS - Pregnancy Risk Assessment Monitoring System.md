@@ -2,9 +2,7 @@
 title: Pregnancy Risk Assessment Monitoring System (PRAMS)
 description: Pregnancy Risk Assessment Monitoring System (PRAMS)
 tags:
-  - health
-  - maternal health
-  - child health
+  - 
 dateCreated: 2021-12-08
 dateRevised: 2021-12-08
 ---

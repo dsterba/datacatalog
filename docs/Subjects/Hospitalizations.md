@@ -1,6 +1,5 @@
 ---
 title: Hospitalizations
-description: Hospitalizations
 tags:
   - health
   - maternal health

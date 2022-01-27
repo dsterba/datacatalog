@@ -2,9 +2,7 @@
 title: Birth Certificate Registry (BIRTHS)
 description: Birth Certificate Registry (BIRTHS)
 tags:
-  - health
-  - maternal health
-  - child health
+  - 
 dateCreated: 2021-12-08
 dateRevised: 2021-12-08
 ---
