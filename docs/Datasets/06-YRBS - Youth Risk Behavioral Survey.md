@@ -11,11 +11,11 @@ dateRevised: 2021-12-08
 ## Data Source
 Surveillance project collecting data to monitor health-related behaviors that contribute to the leading causes of death, disability, and social problems among adolescents and young adults.
 
-## Brief Description
-YRBS was developed to monitor health-related behaviors that contribute to the leading causes of death, disability, and social problems among youth and adults. These behaviors include: behaviors contributing to unintentional injuries and violence, sexual behaviors related to unintended pregnancy and sexually transmitted infections, alcohol and drug use, tobacco use, unhealth dietary behaviors, and inadequate physical activity.
+!!! summary "Brief Description"
+    YRBS was developed to monitor health-related behaviors that contribute to the leading causes of death, disability, and social problems among youth and adults. These behaviors include: behaviors contributing to unintentional injuries and violence, sexual behaviors related to unintended pregnancy and sexually transmitted infections, alcohol and drug use, tobacco use, unhealth dietary behaviors, and inadequate physical activity.
 
-## Data Relevance
-YRBS provides data based on samples which are representative of public high school students in grades 9-12. Surveys are administered every two years, typically in the spring semester. Data can be used to inform program planning and policy formulation to improve the health and well-being of adolescents. Data can be used to monitor changes in adolescent health indicators.
+!!! tip "Data Relevance"
+    YRBS provides data based on samples which are representative of public high school students in grades 9-12. Surveys are administered every two years, typically in the spring semester. Data can be used to inform program planning and policy formulation to improve the health and well-being of adolescents. Data can be used to monitor changes in adolescent health indicators.
 
 ## Data Characteristics
 | Characteristic          | Description                                                                                                                                |
@@ -42,11 +42,11 @@ N/A
 ### Potential topics covered
 [BACKLINKS]
 
-### Links
+### Links and Contact Information
 [YRBSS on OK2SHARE](https://www.health.state.ok.us/stats/Health_Surveys/YRBSS/index.shtml)
 [[OSDH - Oklahoma State Department of Health]]
 
-### Contact
-Thad Burk
-(405) 426-8092
-thadb@health.ok.gov
+!!! info "Contact"
+    Thad Burk
+    (405) 426-8092
+    thadb@health.ok.gov

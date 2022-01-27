@@ -11,11 +11,11 @@ dateRevised: 2021-12-08
 ## Data Source
 Data collected from Oklahoma registered deaths, documented on death certificates.
 
-## Brief Description
-Death registry is based on the information collected on the death certificate. The certificates contain demographic information such as the decedent's age, sex, race, and residence as well as information about the cause of death. Death registry includes information provided by the medical examiner in addition to those submitted by the funeral home directors and hospitals. The current revisions of the death certificate, implemented in 2004, is based on the recommended 2003 US Standard Certificate of Death.						
+!!! summary "Brief Description"
+    Death registry is based on the information collected on the death certificate. The certificates contain demographic information such as the decedent's age, sex, race, and residence as well as information about the cause of death. Death registry includes information provided by the medical examiner in addition to those submitted by the funeral home directors and hospitals. The current revisions of the death certificate, implemented in 2004, is based on the recommended 2003 US Standard Certificate of Death.						
 						
-## Data Relevance
-At both the national, state and local level, death data compiled from death certificates  serves to track disease trends, set public health policies, and allocate health and research funding. Specifically maternal mortality rate and infant mortality rate serve as important indicators for the health of communities.						
+!!! tip "Data Relevance"
+    At both the national, state and local level, death data compiled from death certificates  serves to track disease trends, set public health policies, and allocate health and research funding. Specifically maternal mortality rate and infant mortality rate serve as important indicators for the health of communities.						
 
 ## Data Characteristics
 | Characteristic          | Description                             |
@@ -50,11 +50,11 @@ Topic related reports. Infant mortality and maternal mortality reports available
 - Injury-related deaths
 
 
-### Links
+### Links and Contact Information
 [OK2SHARE](https://www.health.state.ok.us/ok2share/)
 [[OSDH - Oklahoma State Department of Health]]
 
-### Contact
-Paul Patrick
-(405) 426-8105
-paulp@health.ok.gov
+!!! info "Contact"
+    Paul Patrick
+    (405) 426-8105
+    paulp@health.ok.gov

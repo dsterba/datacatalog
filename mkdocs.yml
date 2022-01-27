@@ -4,19 +4,10 @@ docs_dir: docs
 plugins:
   - search
   - roamlinks
-  - include_dir_to_nav
-
-nav:
-  - Home: 
-    - 'index.md'
-  - Data Owners:
-    - Data Owners
-  - Datasets:
-    - Datasets
-  - Subjects:
-    - Subjects
-  - Tags:
-    - tags.md
+  - awesome-pages
+  #- include_dir_to_nav
+  #- Tags:
+  #  - tags.md
 
 theme:
   name: material

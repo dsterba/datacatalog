@@ -2,8 +2,8 @@ INHERIT: ./mkdocs.yml
 plugins:
   - search
   - social
-  - tags:
-      tags_file: tags.md
+  #- tags:
+  #    tags_file: tags.md
   - roamlinks
-  - include_dir_to_nav
+  - awesome-pages
 

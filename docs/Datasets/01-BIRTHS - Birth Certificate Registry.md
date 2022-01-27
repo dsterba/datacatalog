@@ -11,15 +11,15 @@ dateRevised: 2021-12-08
 ## Data Source
 Data collected form Oklahoma registered live births, documented on birth certificates.
 
-## Brief Description
-Birth certificate registry is based on the information collected on the Birth certificate. The current revision of the birth certificate, implemented in 2009, is based on the recommended 2003 US Standard Certificate of Live Birth.  The registry includes the certificate of birth, parent's demographic information, mother's prenatal care history,  maternal morbidity, labor and delivery, and condition and treatment of the infant during, and immediately after, birth. The data is collected from the mother and the mother's and infant's medical records						
+!!! summary "Brief Description"
+    Birth certificate registry is based on the information collected on the Birth certificate. The current revision of the birth certificate, implemented in 2009, is based on the recommended 2003 US Standard Certificate of Live Birth.  The registry includes the certificate of birth, parent's demographic information, mother's prenatal care history,  maternal morbidity, labor and delivery, and condition and treatment of the infant during, and immediately after, birth. The data is collected from the mother and the mother's and infant's medical records						
 
-## Data Relevance
-Birth registry data, a component of the vital statistics, forms the backbone of the tools used to identify and quantify health-related issues in a population.  
+!!! tip "Data Relevance"
+    Birth registry data, a component of the vital statistics, forms the backbone of the tools used to identify and quantify health-related issues in a population.  
 
-Vital statistics provide insight into important trends in health, including preterm births, morbidity among new mothers,delivery risks and incidence of medically and nonmedically indicated cesarean deliveries.  
+    Vital statistics provide insight into important trends in health, including preterm births, morbidity among new mothers,delivery risks and incidence of medically and nonmedically indicated cesarean deliveries.  
 
-Birth registry influences policy development and funding for programs and research.						
+    Birth registry influences policy development and funding for programs and research.						
 ## Data Characteristics
 | Characteristic          | Description                                                                 |
 | ----------------------- | --------------------------------------------------------------------------- |
@@ -52,11 +52,11 @@ Topic-specific reports available
 - Home births
 - [[Breastfeeding]] practices by hospital etc 
 
-### Links
+### Links and Contact Infformation
 [OK2SHARE](https://www.health.state.ok.us/ok2share/)
 [[OSDH - Oklahoma State Department of Health]]
 
-### Contact
-Paul Patrick
-(405) 426-8105
-paulp@health.ok.gov
+!!! info "Contact"
+    Paul Patrick
+    (405) 426-8105
+    paulp@health.ok.gov

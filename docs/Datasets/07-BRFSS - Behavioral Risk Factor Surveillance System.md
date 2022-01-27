@@ -11,11 +11,11 @@ dateRevised: 2021-12-08
 ## Data Source
 BRFSS is a surveillance system using telephone surveys to collect data about health risk behaviors, chronic conditions, and use of services.
 
-## Brief Description
-BRFSS is a surveillance system using telephone surveys to collect data about health risk behaviors, chronic conditions, and use of services. BRFSS is sponsored by the CDC with all 50 states participating to collect uniform, state-specific information about a range of behaviors affecting the health of adults.
+!!! summary "Brief Description"
+    BRFSS is a surveillance system using telephone surveys to collect data about health risk behaviors, chronic conditions, and use of services. BRFSS is sponsored by the CDC with all 50 states participating to collect uniform, state-specific information about a range of behaviors affecting the health of adults.
 
-## Data Relevance
-BRFSS collects state data about health-related risk behaviors and events, including data on emerging health issues. Data are collected continuously throughout the year.
+!!! tip "Data Relevance"
+    BRFSS collects state data about health-related risk behaviors and events, including data on emerging health issues. Data are collected continuously throughout the year.
 
 ## Data Characteristics
 | Characteristic          |                                                                                                                                                     |
@@ -45,7 +45,7 @@ N/A
 [BRFSS on OK2SHARE](https://www.health.state.ok.us/stats/Health_Surveys/BRFSS/index.shtml)
 [[OSDH - Oklahoma State Department of Health]]
 
-### Contact
-Center for Health Statistics
-OSDH
-(405) 426-8030
+!!! info "Contact"
+    Center for Health Statistics
+    OSDH
+    (405) 426-8030
