@@ -8,4 +8,4 @@ dateCreated: 2021-12-08
 ---
 # Hospitalizations
 ## Relevant Datasets
-- [[08-DISCHARGE]]
+- [[08-DISCHARGE - Hospital inpatient discharge data]]

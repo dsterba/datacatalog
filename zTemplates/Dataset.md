@@ -1,6 +1,5 @@
 ---
 title: {{TITLE}}
-description: 
 tags:
   - 
 dateCreated: {{DATE:YYYY-MM-DD}}
@@ -10,36 +9,30 @@ dateRevised: {{DATE:YYYY-MM-DD}}
 
 ## Data Source
 
-## Brief Description
-
-## Data Relevance
-
+!!! summary "Brief Description"
+    
+!!! tip "Data Relevance"
+    
 ## Data Characteristics
-
-### Target Population
-
-### Age
-
-### Race & Ethnicity
-
-### Socioeconomic Variables
-
-### Geographic Estimates
-
-### Years of Data Collected
+| Characteristic          | Description |
+| ----------------------- | ----------- |
+| Target Population       |             |
+| Age                     |             |
+| Race & Ethnicity        |             |
+| Socioeconomic Variables |             |
+| Geographic Estimates    |             |
+| Years of Data Collected |             | 
 
 ### Availability
 
 ### Data fields 
 
-- First File
-
 ### Periodic Reports
 
 ### Potential topics covered
+[BACKLINKS]
 
-### Links
+### Links and Contact Information
+!!! info "Contact"
 
-### Request/Fulfillment Timeframe
-
-### Contact
+-8<-- "includes/abbreviations.md"

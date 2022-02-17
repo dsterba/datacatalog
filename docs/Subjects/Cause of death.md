@@ -7,5 +7,5 @@ dateRevised: 2022-01-27
 ---
 # Cause of death
 ## Relevant Datasets
-- [[02-DEATHS - Death certificate registry]]
-- [[03-FETAL - Fetal death certificate registry]]
+- [[02-DEATHS - Death Certificate Registry]]
+- [[03-FETAL - Fetal Death Certificate Registry]]

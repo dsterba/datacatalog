@@ -7,4 +7,4 @@ dateRevised: 2022-01-27
 ---
 # Pregnant at time of death
 ## Relevant Datasets
-- [[02-DEATHS - Death certificate registry]]
+- [[02-DEATHS - Death Certificate Registry]]
