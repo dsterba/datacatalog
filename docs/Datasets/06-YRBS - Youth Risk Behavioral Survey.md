@@ -44,7 +44,6 @@ N/A
 
 ## Links and Contact Information
 [YRBSS on OK2SHARE](https://www.health.state.ok.us/stats/Health_Surveys/YRBSS/index.shtml)
-[[OSDH - Oklahoma State Department of Health]]
 
 !!! info "Contact"
 

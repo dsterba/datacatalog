@@ -14,25 +14,25 @@ dateRevised: {{DATE:YYYY-MM-DD}}
 !!! tip "Data Relevance"
     
 ## Data Characteristics
-| Characteristic          | Description |
-| ----------------------- | ----------- |
-| Target Population       |             |
-| Age                     |             |
-| Race & Ethnicity        |             |
-| Socioeconomic Variables |             |
-| Geographic Estimates    |             |
-| Years of Data Collected |             | 
+| Characteristic          | Description    |
+| ----------------------- | -------------- |
+| Target Population       |                |
+| Age                     |                |
+| Race & Ethnicity        | • ABCXYZ<br/>• | 
+| Socioeconomic Variables |                |
+| Geographic Estimates    |                |
+| Years of Data Collected |                |
 
-### Availability
+## Availability
 
-### Data fields 
+## Data fields 
 
-### Periodic Reports
+## Periodic Reports
 
-### Potential topics covered
+## Potential topics covered
 [BACKLINKS]
 
-### Links and Contact Information
+## Links and Contact Information
 !!! info "Contact"
 
--8<-- "includes/abbreviations.md"
+--8<-- "includes/abbreviations.md"

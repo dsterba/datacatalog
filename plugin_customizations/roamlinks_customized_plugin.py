@@ -159,7 +159,7 @@ class BackLinksReplacer:
                     f.close()
         out.sort()
         retval = "\n".join(out)
-        return retval if retval != "" else "N/A"
+        return retval if retval != "" else "None currently listed"
 
 class RoamLinksPlugin(BasePlugin):
     def on_page_markdown(self,

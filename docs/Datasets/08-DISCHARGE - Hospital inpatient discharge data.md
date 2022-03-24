@@ -67,17 +67,16 @@ Discharge data collected from Oklahoma state‐licensed hospitals and ambulatory
     | Periodic Reports        | Basic aggregated data available on OK2Share including utilization, charges, and types of hospitalizations and outpatient surgeries                |
 
 ## Data fields 
-See detail in above table
+See detail in above tables
 
 ## Periodic Reports
-See detail in above table
+See detail in above tables
 
 ## Additional Potential topics covered
 [BACKLINKS]
 
 ## Links and Contact Information
 [Discharges on OK2SHARE](https://www.health.state.ok.us/stats/Hospital_&_ASC/Hospitals/index.shtml)
-[[OSDH - Oklahoma State Department of Health]]
 
 !!! info "Contact"
 

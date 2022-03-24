@@ -58,8 +58,6 @@ None known
 - Environmental factors impacting pregnancy
 
 ## Links and Contact Information
-[[OSDH - Oklahoma State Department of Health]]
-
 !!! info "Contact"
 
     Paul Patrick

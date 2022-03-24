@@ -41,8 +41,6 @@ NYRBS results are often published in the MMWR with other small releases as well.
 
 ## Links and Contact Information
 [CDC YRBSS](https://www.cdc.gov/healthyyouth/data/yrbs/index.htm)
-[[OSDH - Oklahoma State Department of Health]]
-[[CDC - Centers for Disease Control]]
 
 !!! info "Contact"
 

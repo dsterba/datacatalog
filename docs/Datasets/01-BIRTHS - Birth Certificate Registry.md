@@ -56,7 +56,6 @@ Topic-specific reports available
 
 ## Links and Contact Information
 [OK2SHARE](https://www.health.state.ok.us/ok2share/)
-[[OSDH - Oklahoma State Department of Health]]
 
 !!! info "Contact"
 

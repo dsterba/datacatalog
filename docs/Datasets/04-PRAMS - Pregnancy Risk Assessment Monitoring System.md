@@ -65,7 +65,6 @@ see [Data Fields](#data-fields) also:
 
 ## Links and Contact Information
 [Oklahoma PRAMS](https://oklahoma.gov/health/family-health/maternal-and-child-health-service/data-and-evaluation/pregnancy-risk-assessment-monitoring-system-prams.html)
-[[OSDH - Oklahoma State Department of Health]]
 
 !!! info "Contact"
 

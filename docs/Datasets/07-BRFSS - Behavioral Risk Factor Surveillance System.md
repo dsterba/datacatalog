@@ -43,7 +43,6 @@ N/A
 
 ## Links and Contact Information
 [BRFSS on OK2SHARE](https://www.health.state.ok.us/stats/Health_Surveys/BRFSS/index.shtml)
-[[OSDH - Oklahoma State Department of Health]]
 
 !!! info "Contact"
 

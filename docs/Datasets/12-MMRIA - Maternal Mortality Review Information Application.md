@@ -8,6 +8,7 @@ dateRevised: 2022-02-17
 # Maternal Mortality Review Information Application (MMRIA)
 
 ## Data Source
+The Maternal Mortality Review Information Application (MMRIA or “Maria”)  provides a repository for the medical and social information needed for maternal mortality review committee (MMRC) case review, providing standardized data that can be used for surveillance, monitoring, and research on maternal mortality.
 
 !!! summary "Brief Description"
 
@@ -34,6 +35,7 @@ dateRevised: 2022-02-17
 Annually and via special request to MCH Assessment
 
 ## Data fields 
+<!-- Need more info ---> 
 
 ## Periodic Reports
 Annual reports, presentations at  maternal health related events
