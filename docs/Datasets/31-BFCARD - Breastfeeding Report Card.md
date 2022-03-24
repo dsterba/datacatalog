@@ -22,7 +22,7 @@ CDC's Breastfeeding Report Card provides state data on breastfeeding support and
     Data can be used to track progress toward Healthy People goals and assess practices and policies affecting newborn feeding.
     
 ## Data Characteristics
-=== "Women with a live birth "
+=== "Women with a live birth"
     | Characteristic          | Description                                                                         |
     | ----------------------- | ----------------------------------------------------------------------------------- |
     | Target Population       | Women with a live birth                                                             |
@@ -32,15 +32,15 @@ CDC's Breastfeeding Report Card provides state data on breastfeeding support and
     | Geographic Estimates    | State                                                                               |
     | Years of Data Collected | 2010-2017; yearly via NIS                                                                                    |
 
-=== "Women with a live birth "
+=== "Maternity care hospitals"
     | Characteristic          | Description                                                                         |
     | ----------------------- | ----------------------------------------------------------------------------------- |
-    | Target Population       | Women with a live birth                                                             |
-    | Age                     | Women of childbearing age                                                           |
-    | Race & Ethnicity        | All races and ethnicities                                                           |
-    | Socioeconomic Variables | • Education<br/>• income<br/>• marital status<br/>• rural/urban geographic location |
+    | Target Population       | Maternity care hospitals                                                            |
+    | Age                     | N/A                                                           |
+    | Race & Ethnicity        | N/A                                                           |
+    | Socioeconomic Variables | N/A |
     | Geographic Estimates    | State                                                                               |
-    | Years of Data Collected | 2010-2017; yearly via NIS                                                                                    |
+    | Years of Data Collected | 2007-2018; every two years via mPINC                                                                                  |
 	
 ## Availability
 Available for public use

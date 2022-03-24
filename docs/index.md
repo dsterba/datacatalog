@@ -8,7 +8,6 @@ This catalog has an extensive search and tagging function. You can expect to fin
 
 - Datasets
 - Subject or Topic
-- Agency
 - Data field
 
 ## Explore by Subject
