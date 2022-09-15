@@ -50,8 +50,8 @@ Annual reports available
 ## Links and Contact Information
 !!! info "Contact"
 
-    Dana Coles
-	(405) 426-8092
-	danalc@health.ok.gov
+    Jenna Bellantoni
+	(405) 426-8113
+	Jenna.Bellantoni@health.ok.gov
     
 --8<-- "includes/abbreviations.md"

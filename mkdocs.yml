@@ -2,7 +2,7 @@ site_name: Maternal Health Task Force Data Catalog
 site_url: "https://datacatalog.dansterba.net"
 docs_dir: docs
 plugins:
-  - search
+  # - search
   - roamlinks
   - awesome-pages
   #- include_dir_to_nav
@@ -11,6 +11,8 @@ plugins:
 
 theme:
   name: material
+  icon: 
+    logo: material/library
   font: false
   features:
     - navigation.tabs
@@ -19,13 +21,20 @@ theme:
     - toc.integrate
   palette:
     - scheme: default
+      # primary: blue
+      # accent: green
       toggle:
         icon: material/lightbulb-outline
         name: Switch to dark mode
     - scheme: slate
+      # primary: blue
+      # accent: green
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
+
+extra_css:
+  - stylesheets/themes.css
 
 markdown_extensions:
   - def_list

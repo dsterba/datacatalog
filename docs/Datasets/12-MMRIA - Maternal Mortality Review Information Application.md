@@ -47,8 +47,8 @@ Annual reports, presentations at  maternal health related events
 [CDC MMRIA Website](https://www.cdc.gov/reproductivehealth/maternal-mortality/erase-mm/MMRIA.html)
 !!! info "Contact"
 
-    Dana Coles
-	(405) 426-8092
-	danalc@health.ok.gov
+    Jenna Bellantoni
+	(405) 426-8113
+	Jenna.Bellantoni@health.ok.gov
     
 --8<-- "includes/abbreviations.md"

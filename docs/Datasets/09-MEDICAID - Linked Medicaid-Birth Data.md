@@ -60,9 +60,9 @@ Topic specific reports - Neonatal abstinence syndrome, Native American births co
 [MEDICAID/BIRTH Project](https://oklahoma.gov/health/family-health/maternal-and-child-health-service/data-and-evaluation/medicaid-birth-certificate-linkage-project.html)
 !!! info "Contact"
 
-    Paul Patrick
-    (405) 426-8105
-    paulp@health.ok.gov
+    Binitha Kunnel
+    (405) 426-8097
+    binithak@health.ok.gov
 	
 
 --8<-- "includes/abbreviations.md"

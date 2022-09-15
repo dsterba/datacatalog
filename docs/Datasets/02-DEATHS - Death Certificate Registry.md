@@ -55,9 +55,9 @@ Topic related reports. Infant mortality and maternal mortality reports available
 
 !!! info "Contact"
 
-    Paul Patrick
-    (405) 426-8105
-    paulp@health.ok.gov
+    Binitha Kunnel
+    (405) 426-8097
+    binithak@health.ok.gov
 
 
 --8<-- "includes/abbreviations.md"
